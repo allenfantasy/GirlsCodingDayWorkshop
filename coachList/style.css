@@ -1,0 +1,21 @@
+.container {
+    width: 1080px;
+    margin: 0 auto;
+    text-align: center;
+}
+.coach {
+    position: relative;
+    min-height: 120px;
+}
+.coach .left {
+    position: absolute;
+    width: 200px;
+}
+.coach .right {
+    margin-left: 200px;
+}
+
+#slogan {
+    background-color: black;
+    color: white;
+}
