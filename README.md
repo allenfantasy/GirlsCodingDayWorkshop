@@ -4,5 +4,5 @@ This repo is the material for the workshop of Girls Coding Day @Guangzhou on Aug
 
 Including: 
 
-* a keynote introducing HTML & CSS 
+* a keynote introducing HTML & CSS [keynote_remark](./keynote.md)
 * a simple HTML+CSS demo which shows a list of coaches
